@@ -21,7 +21,6 @@ Tecnologias Utilizadas:
 Como Executar:
 1. **Clone o repositório**:
 ```bash
-git clone https://github.com/BernardoFonsecaRibeiro/CrudGameVault
 ```
 2. **Abra o projeto em sua IDE favorita**.
 3. **Compile e execute** os arquivos `.java` conforme
