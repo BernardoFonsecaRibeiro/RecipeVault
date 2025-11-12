@@ -40,9 +40,8 @@ ULBRA SÃO LUCAS
 Wireframe do Projeto
 
 O design inicial da interface do GameVault foi desenvolvido no Canva.
-![WhatsApp Image 2025-11-05 at 15 36 49](https://github.com/user-attachments/assets/c1c95970-df1f-4eff-ac8d-ef8b349dacfe)
-![WhatsApp Image 2025-11-05 at 17 47 54](https://github.com/user-attachments/assets/62859935-05b0-48bd-8d2a-d495654abce9)
-
+![WhatsApp Image 2025-11-05 at 15 36 49](https://github.com/user-attachments/assets/be9695c0-8c4a-4fba-ac28-e40b8972e21b)
+![WhatsApp Image 2025-11-05 at 15 36 49](https://github.com/user-attachments/assets/edf84c68-14ca-4422-a955-0ffc2fb520e3)
 ---
 
 ---
