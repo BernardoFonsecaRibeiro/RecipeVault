@@ -18,6 +18,14 @@ Tecnologias Utilizadas:
 - Canva
 ---
 ---
+Wireframe do Projeto
+
+O design inicial da interface do GameVault foi desenvolvido no Canva.
+![entrw](https://github.com/user-attachments/assets/d73727ab-2354-4fdc-93c1-f1493192b9a0)
+![Capturar](https://github.com/user-attachments/assets/e6393dd3-c000-46a4-ab7b-93fa2547b818)
+
+---
+---
 Como Executar:
 1. **Clone o repositório**:
 ```bash
@@ -35,14 +43,6 @@ CENTRO TECNOLÓGICO DA ULBRA
 Instituído pelo parecer do CEED/RS n.º.420/99
 Comunidade Evangélica Luterana ‘São Paulo’
 ULBRA SÃO LUCAS
-
----
-Wireframe do Projeto
-
-O design inicial da interface do GameVault foi desenvolvido no Canva.
-![WhatsApp Image 2025-11-05 at 15 36 49](https://github.com/user-attachments/assets/be9695c0-8c4a-4fba-ac28-e40b8972e21b)
-![WhatsApp Image 2025-11-05 at 15 36 49](https://github.com/user-attachments/assets/edf84c68-14ca-4422-a955-0ffc2fb520e3)
----
 
 ---
 Autores:
