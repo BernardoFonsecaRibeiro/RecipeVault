@@ -17,15 +17,12 @@ Tecnologias Utilizadas:
 - Git/GitHub para versionamento
 - Canva
 ---
----
 Wireframe do Projeto
 
 O design inicial da interface do GameVault foi desenvolvido no Canva.
 ![WhatsApp Image 2025-11-05 at 17 47 54](https://github.com/user-attachments/assets/b2c1e004-a782-46ce-acfe-a788e5cc5a11)
 ![WhatsApp Image 2025-11-05 at 17 47 54](https://github.com/user-attachments/assets/6a97415e-88c6-486c-9668-52757c7c6fb7)
 
-
----
 ---
 Como Executar:
 1. **Clone o repositório**:
