@@ -25,6 +25,11 @@ Banco de Dados:
 
 
 ---
+Mockup do Projeto:
+
+<img width="632" height="357" alt="image" src="https://github.com/user-attachments/assets/c3fb5b49-bb0e-487a-8f5b-c050d65cfb1d" />
+
+---
 Wireframe do Projeto
 
 O design inicial da interface do GameVault foi desenvolvido no Canva.
