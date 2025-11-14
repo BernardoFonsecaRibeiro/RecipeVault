@@ -19,8 +19,10 @@ Tecnologias Utilizadas:
 ---
 Banco de Dados:
 
-                                             
-![WhatsApp Image 2025-10-15 at 15 40 24](https://github.com/user-attachments/assets/b3517bff-0e11-47ae-8768-0c3daa11eb3e)
+![WhatsApp Image 2025-11-13 at 10 35 24 (1)](https://github.com/user-attachments/assets/b71c43bd-a534-4348-8c89-043b89f12488)
+![WhatsApp Image 2025-11-13 at 10 35 23](https://github.com/user-attachments/assets/ab94d938-2f4d-4cb4-8265-6e2d59639967)
+![WhatsApp Image 2025-11-13 at 10 35 24](https://github.com/user-attachments/assets/35fa899a-97a2-4e13-8ec7-dbe6e0fb492c)
+
 
 ---
 Wireframe do Projeto
