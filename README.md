@@ -31,6 +31,52 @@ O design inicial da interface do GameVault foi desenvolvido no Canva.
 ![WhatsApp Image 2025-11-05 at 17 47 54](https://github.com/user-attachments/assets/b2c1e004-a782-46ce-acfe-a788e5cc5a11)
 ![WhatsApp Image 2025-11-05 at 15 36 49](https://github.com/user-attachments/assets/265f86f2-8da3-45d4-b96b-36be4533e732)
 ---
+## 📁 Estrutura do Projeto
+
+- `ProjRecipeVault/`
+  - `Pacotes de Códigos-fonte/`
+    - `br.ulbra.Controller/`
+      - `AvaliacaoController.java`
+      - `CategoriaController.java`
+      - `IngredienteController.java`
+      - `ModoPreparoController.java`
+      - `ReceitaController.java`
+      - `ReceitaIngredienteController.java`
+      - `ReceitaUtensilioController.java`
+      - `UnidadeMedidaController.java`
+      - `UsuarioController.java`
+      - `UtensilioController.java`
+
+    - `br.ulbra.DAO/`
+      - `AbstractDAO.java`
+      - `AvaliacaoDAO.java`
+      - `CategoriaDAO.java`
+      - `IngredienteDAO.java`
+      - `InterfaceDAO.java`
+      - `ModoPreparoDAO.java`
+      - `ReceitaDAO.java`
+      - `ReceitaIngredienteDAO.java`
+      - `ReceitaUtensilioDAO.java`
+      - `UnidadeMedidaDAO.java`
+      - `UsuarioDAO.java`
+      - `UtensilioDAO.java`
+
+    - `br.ulbra.model/`
+      - `Avaliacao.java`
+      - `Categoria.java`
+      - `Ingrediente.java`
+      - `ModoPreparo.java`
+      - `Receita.java`
+      - `ReceitaIngrediente.java`
+      - `ReceitaUtensilio.java`
+      - `UnidadeMedida.java`
+      - `Usuario.java`
+      - `Utensilio.java`
+
+  - `Pacotes de Teste/`
+  - `Bibliotecas/`
+  - `Bibliotecas de Testes/`
+---
 Como Executar:
 1. **Clone o repositório**:
 ```bash
